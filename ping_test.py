@@ -83,17 +83,3 @@ print("Program Ended")
 
 
 
-
-
-#this is for remote ip testing 
-#remote_ip=" 8.8.8.8"
-#remote_ip_response= os.system("ping -c >/dev/null " + remote_ip)
-
-
-#If block for testing hostname 
-#if responsehostname == 0:
-#    print("Connection")
-#else:
-#    print("No connection")
-
-
